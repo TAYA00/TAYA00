@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, ich bin Taya</h1>
-<h3 align="center">Junior Webdev in Ausbildung</h3>
+<p align="center">
+  <a href="https://github.com/TAYA00">
+    <img src="github-header-banner.png" alt="Hi, ich bin Taya – Junior Webdev in Ausbildung" width="100%" />
+  </a>
+</p>
 
 - 🔭 Ich arbeite derzeit an [Shopware Kalkulator](https://datanaut.eu/shopware-kalkulator)
 
