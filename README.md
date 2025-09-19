@@ -4,11 +4,16 @@
   </a>
 </p>
 
+
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
 - 🔭 Ich arbeite derzeit an [Shopware Kalkulator](https://datanaut.eu/shopware-kalkulator)
 
 - 🌱 Ich lerne gerade **Java, C++, Node.js**
 
 - 📫 So erreichen Sie mich **workpage.anastasia@gmail.com**
+ 
 
 # 💻 Tech Stack:
 ### Frontend
