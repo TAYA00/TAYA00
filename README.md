@@ -3,7 +3,7 @@
     <img src="github-header-banner.png" alt="Hi, ich bin Taya – Junior Webdev in Ausbildung" width="80%"/>
   </a>
 </p>
-<img align="right" src="Group%201321314300.png" alt="GIF" width="30%" />
+<img align="right" src="Group%201321314300.png" alt="GIF" width="25%" />
 
 👩‍💻 I am an aspiring **Fachinformatikerin in Anwendungsentwicklung**, with practical experience in creating and managing web projects both independently and within teams.  
 
