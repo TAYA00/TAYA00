@@ -5,7 +5,7 @@
 </p>
 <img align="right" src="Group%201321314300.png" alt="GIF" width="30%" />
 
-👩‍💻 I am an aspiring **Fachinformatikerin in Application Development**, with practical experience in creating and managing web projects both independently and within teams.  
+👩‍💻 I am an aspiring **Fachinformatikerin in Anwendungsentwicklung**, with practical experience in creating and managing web projects both independently and within teams.  
 
 📌 Through my own projects and hands-on practice, I’ve learned to take responsibility, work in a structured way, and develop creative solutions.  
 
