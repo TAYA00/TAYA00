@@ -9,8 +9,6 @@
 
 📌 Through my own projects and hands-on practice, I’ve learned to take responsibility, work in a structured way, and develop creative solutions.  
 
-🚀 Starting in **2026**, I’m looking for a new training company where I can continue to grow professionally, deepen my knowledge in application development, and actively contribute to building innovative software solutions.  
-
 - 🔭 I’m currently working on [Shopware Calculator](https://datanaut.eu/shopware-kalkulator)  
 - 🌱 I’m currently learning **Java, C++, Node.js**  
 - 📫 You can reach me at **workpage.anastasia@gmail.com**  
