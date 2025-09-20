@@ -3,9 +3,6 @@
     <img src="github-header-banner.png" alt="Hi, ich bin Taya – Junior Webdev in Ausbildung" width="100%" />
   </a>
 </p>
-
-
- <br />
 <img align="right" src="Group 1321314300.png" alt="GIF" width="35%" />
 
 - 🔭 Ich arbeite derzeit an [Shopware Kalkulator](https://datanaut.eu/shopware-kalkulator)
