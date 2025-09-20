@@ -6,7 +6,7 @@
 
 
  <br />
-<img align="right" src="https://media.giphy.com/media/RFWYL3CCOBk2lDiCup/giphy.gif" alt="GIF" width="400px" />
+<img align="right" src="https://media1.giphy.com/media/RFWYL3CCOBk2lDiCup/giphy.gif?cid=790b7611&rid=giphy.gif&ct=g" alt="GIF" width="35%" />
 
 - 🔭 Ich arbeite derzeit an [Shopware Kalkulator](https://datanaut.eu/shopware-kalkulator)
 
