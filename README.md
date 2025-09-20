@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/TAYA00">
-    <img src="my_README.png" alt="Hi, ich bin Taya – Junior Webdev in Ausbildung" width="90%"/>
+    <img src="my_README2.png" alt="Hi, ich bin Taya – Junior Webdev in Ausbildung" width="90%"/>
   </a>
 </p>
 <img align="right" src="Group%201321314300.png" alt="GIF" width="25%" />
