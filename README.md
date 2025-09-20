@@ -3,20 +3,13 @@
     <img src="github-header-banner.png" alt="Hi, ich bin Taya – Junior Webdev in Ausbildung" width="100%" />
   </a>
 </p>
-<table>
-  <tr>
-    <td>
+<img align="right" src="Group%201321314300.png" alt="GIF" width="30%" />
 
-- 🔭 Ich arbeite derzeit an <a href="https://datanaut.eu/shopware-kalkulator">Shopware Kalkulator</a><br>
-- 🌱 Ich lerne gerade <b>Java, C++, Node.js</b><br>
-- 📫 So erreichen Sie mich <b>workpage.anastasia@gmail.com</b>
+- 🔭 Ich arbeite derzeit an [Shopware Kalkulator](https://datanaut.eu/shopware-kalkulator)
+- 🌱 Ich lerne gerade **Java, C++, Node.js**
+- 📫 So erreichen Sie mich **workpage.anastasia@gmail.com**
 
-    </td>
-    <td align="right" width="35%">
-      <img src="Group%201321314300.png" alt="GIF" width="100%">
-    </td>
-  </tr>
-</table>
+<br clear="both"/>
 
 # 💻 Tech Stack:
 ### Frontend
