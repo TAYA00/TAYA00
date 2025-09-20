@@ -5,15 +5,14 @@
 </p>
 
 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 - 🔭 Ich arbeite derzeit an [Shopware Kalkulator](https://datanaut.eu/shopware-kalkulator)
 
 - 🌱 Ich lerne gerade **Java, C++, Node.js**
 
 - 📫 So erreichen Sie mich **workpage.anastasia@gmail.com**
- 
+ <br />
+<img align="right" height="270px" width="450px" alt="GIF" src="[https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIwNWdkZ2NiZzBwMnFvZWJhZ2dpdGMxNnRtNm9jbW9oeno5a2U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif)" />
 
 # 💻 Tech Stack:
 ### Frontend
