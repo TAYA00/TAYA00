@@ -13,7 +13,6 @@
 - 🌱 Ich lerne gerade **Java, C++, Node.js**
 
 - 📫 So erreichen Sie mich **workpage.anastasia@gmail.com**
-<br/>
 
 # 💻 Tech Stack:
 ### Frontend
