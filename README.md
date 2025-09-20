@@ -6,7 +6,7 @@
 
 
  <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://giphy.com/embed/9zExs2Q2h1EHfE4P6G" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIwNWdkZ2NiZzBwMnFvZWJhZ2dpdGMxNnRtNm9jbW9oeno5a2U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif" />
 - 🔭 Ich arbeite derzeit an [Shopware Kalkulator](https://datanaut.eu/shopware-kalkulator)
 
 - 🌱 Ich lerne gerade **Java, C++, Node.js**
